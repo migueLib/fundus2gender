@@ -1,2 +1,2 @@
 # fundus2sex
-# Deep Learning for fundus image analysis
+Deep Learning for fundus image analysis
