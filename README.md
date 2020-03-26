@@ -28,3 +28,9 @@ Get the trained InceptionV3 model
 --------
 
 Here: https://drive.google.com/open?id=1aCNeSgVINcjtlVBgiVD4CBoBrwWJxpWX
+
+
+Check more reaserch from IGSB (Institute for Genomic Statistics and Bioinformatics)
+--------
+
+Here: https://www.igsb.uni-bonn.de/en
