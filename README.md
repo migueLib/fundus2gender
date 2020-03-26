@@ -21,4 +21,10 @@ Thanks for participating and we will report soon whether people with some prior 
 Test Yourself Against AI
 --------
 
-Visit:  www.fundus2gender.org 
+Here: www.fundus2gender.org 
+
+
+Get the trained InceptionV3 model
+--------
+
+Here: https://drive.google.com/open?id=1aCNeSgVINcjtlVBgiVD4CBoBrwWJxpWX
