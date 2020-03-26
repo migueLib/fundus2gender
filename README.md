@@ -2,7 +2,9 @@
 
 Fundus2Gender is a set of tools for Deep Learning analysis of fundus images. It also includes analysis and their results on the UKBiobank dataset. 
 
-<p style="text-align: center;"> ![fundos2genderimage](https://github.com/migueLib/fundus2gender/blob/master/figures/extras/fundus2gender.png) </p>
+<p align="center">
+	<img src="https://github.com/migueLib/fundus2gender/blob/master/figures/extras/fundus2gender.png">
+</p>
 
 Project Summary
 --------
