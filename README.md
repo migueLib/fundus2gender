@@ -1,5 +1,7 @@
 # Fundus2Sex
 
+[![DOI](https://zenodo.org/badge/245197174.svg)](https://zenodo.org/badge/latestdoi/245197174)
+
 Fundus2Sex is a set of tools for Deep Learning analysis of fundus images. It also includes analysis and their results on the UKBiobank dataset. 
 
 <p align="center">
